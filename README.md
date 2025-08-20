@@ -5,7 +5,7 @@
   <h3>Desenvolvedor Fullstack apaixonado por tecnologia.</h3>
 
   <p>
-    Sou [Seu Nome], um entusiasta por [Sua Paixão, ex: desenvolvimento web, dados, IA].
+    Sou Naftali, um entusiasta por Tecnologia.
     Minha missão é construir soluções inovadoras e eficientes que resolvam problemas reais.
     Este é o meu cantinho para compartilhar meus projetos e aprendizados.
   </p>
