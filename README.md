@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/100000000?v=4" width="150" height="150" style="border-radius: 50%;" alt="Sua foto de perfil">
+  
 
   <h1>Olá, eu sou Naftali! 👋</h1>
   <h3>Desenvolvedor Fullstack apaixonado por tecnologia.</h3>
